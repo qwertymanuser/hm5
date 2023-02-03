@@ -1,0 +1,26 @@
+git init
+git remote add origin
+
+git add
+git commit -m ''
+git push origin master/main
+
+git remote remove origin
+
+.gitignore
+        .gitignore
+        .idea
+        __pycache__\
+        venv
+
+
+git clone link
+git remote remove origin
+
+rm - remove
+
+git branch
+git branch name
+git checkout name
+git merge name
+git checkout -b name
